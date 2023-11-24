@@ -1,0 +1,107 @@
+body {background-image: url(images/background.jpg);
+
+}
+
+
+header{
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 46px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    background-color: rgb(10, 109, 76);;
+}
+
+h2 {font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(175, 91, 52);
+
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+
+}
+h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+
+}
+
+
+nav {  background-color: burlywood;
+    font-family: 'Abel', sans-serif; 
+    padding: 20px;
+    text-align: center;
+    width: 90%;
+    margin-left: 30px;
+    border-radius: 50;
+    
+}
+
+body {
+    background-color: rgb(209, 198, 195);;
+    font-family: 'Montserrat', sans-serif; 
+ 
+}
+li{
+    font-family: 'Abel', sans-serif; 
+}
+
+nav li{
+    font-family: 'Abel', sans-serif; 
+    list-style-type: none;
+    display: inline;
+    margin: 10px;
+}
+p {
+    font-family: 'Abel', sans-serif; 
+    text-align: justify;
+}
+
+section {
+    background-color: lightsalmon;
+    display: inline-block;
+    margin-top: 56px;
+    margin-left: 30px;
+    padding: 20px;
+    border-radius: 5px;
+    width: 90%;
+}
+
+.chico {
+    background-color: rgb(235, 208, 91);
+    display: inline-block;
+    margin-top: 56px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 20px;
+    border-radius: 25px;
+    width: 90%;
+    text-align: center;
+}
+.alargado {
+    background-color: rgb(139, 179, 135);
+    display: inline-block;
+    margin-top: 56px;
+    margin-left: 30px;
+    border-radius: 5px;
+    width: 90%;
+    padding: 20px;
+   
+}
+
+section#fuentes a{
+    font-family: Arial, Helvetica, sans-serif
+
+}
